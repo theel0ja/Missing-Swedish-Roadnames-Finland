@@ -4,3 +4,21 @@ Data for missing Swedish roadnames for two-language officially 2 language cities
 
 Currently implemented:
 * Turku
+
+## Guide for generating geojson files
+1. Open [Overpass Turbo](https://overpass-turbo.eu/) and paste this into the box on the site:
+```
+[out:json][timeout:6000];
+
+{{geocodeArea:CITYNAME}}->.searchArea;
+
+(
+  way["highway"]["name"]["name:sv"!~".*"](area.searchArea);
+);
+// print results
+out body;
+>;
+out skel qt;
+```
+2. Press "Run".
+3. Press "Export" and "as geoJSON"
