@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-05-27T21:53:51Z",
+  "timestamp": "2017-06-12T10:53:34Z",
   "features": [
     {
       "type": "Feature",
@@ -1345,9 +1345,10 @@
       "type": "Feature",
       "properties": {
         "@id": "way/483390432",
+        "access": "no",
         "area": "yes",
         "bridge": "yes",
-        "foot": "permissive",
+        "foot": "no",
         "highway": "pedestrian",
         "indoor": "yes",
         "layer": "1",
@@ -6669,6 +6670,127 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/76908673",
+        "bicycle": "yes",
+        "highway": "footway",
+        "lit": "yes",
+        "name": "Talin perhepolku",
+        "surface": "unpaved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            24.8704283,
+            60.2107216
+          ],
+          [
+            24.8700805,
+            60.2106836
+          ],
+          [
+            24.8698299,
+            60.2107008
+          ],
+          [
+            24.8696334,
+            60.2107506
+          ],
+          [
+            24.8694076,
+            60.2108495
+          ],
+          [
+            24.8692592,
+            60.2109797
+          ],
+          [
+            24.8693196,
+            60.2111034
+          ],
+          [
+            24.8694679,
+            60.2112533
+          ],
+          [
+            24.8695911,
+            60.211322
+          ],
+          [
+            24.8697897,
+            60.2113595
+          ],
+          [
+            24.8699858,
+            60.2114082
+          ],
+          [
+            24.8700412,
+            60.2114594
+          ],
+          [
+            24.8700362,
+            60.2116168
+          ],
+          [
+            24.8700714,
+            60.2116968
+          ],
+          [
+            24.8702651,
+            60.211773
+          ],
+          [
+            24.8704436,
+            60.211763
+          ],
+          [
+            24.8708812,
+            60.2116993
+          ],
+          [
+            24.871017,
+            60.2116506
+          ],
+          [
+            24.8711226,
+            60.2115231
+          ],
+          [
+            24.8712068,
+            60.2113533
+          ],
+          [
+            24.871237,
+            60.2112286
+          ],
+          [
+            24.8711498,
+            60.2110526
+          ],
+          [
+            24.8710343,
+            60.2109726
+          ],
+          [
+            24.8709053,
+            60.2108868
+          ],
+          [
+            24.8706473,
+            60.2107735
+          ],
+          [
+            24.8704283,
+            60.2107216
+          ]
+        ]
+      },
+      "id": "way/76908673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/77490489",
         "highway": "service",
         "motor_vehicle": "private",
@@ -7311,7 +7433,8 @@
         "highway": "unclassified",
         "lit": "yes",
         "name": "Pilkekuja",
-        "name:fi": "Pilkekuja"
+        "name:fi": "Pilkekuja",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
