@@ -3,7 +3,9 @@
 Data for missing Swedish roadnames for two-language officially 2 language cities and municipalities in Finland.
 
 Currently implemented:
-* Turku
+* [Turku](Turku.geojson)
+* [Helsinki](Helsinki.geojson)
+* [Espoo](Espoo.geojson)
 
 ## Guide for generating geojson files
 1. Open [Overpass Turbo](https://overpass-turbo.eu/) and paste this into the box on the site:

@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-05-27T21:12:51Z",
+  "timestamp": "2017-06-12T10:47:34Z",
   "features": [
     {
       "type": "Feature",
@@ -1308,130 +1308,11 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/4236096",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2322161,
-            60.4967118
-          ],
-          [
-            22.2333438,
-            60.4968484
-          ],
-          [
-            22.2345003,
-            60.4969761
-          ],
-          [
-            22.2366669,
-            60.4971664
-          ],
-          [
-            22.2389785,
-            60.49738
-          ],
-          [
-            22.2408611,
-            60.4975256
-          ],
-          [
-            22.2429853,
-            60.4976655
-          ],
-          [
-            22.2445999,
-            60.4977718
-          ],
-          [
-            22.2461424,
-            60.4978609
-          ],
-          [
-            22.2481422,
-            60.4979409
-          ],
-          [
-            22.2501376,
-            60.4980005
-          ]
-        ]
-      },
-      "id": "way/4236096"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/4238854",
-        "foot": "no",
-        "highway": "secondary",
-        "lanes": "1",
-        "motor_vehicle": "no",
-        "name": "Martinkatu",
-        "name:fi": "Martinkatu",
-        "oneway": "yes",
-        "psv": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.25833,
-            60.4424745
-          ],
-          [
-            22.258297,
-            60.4425577
-          ],
-          [
-            22.2582253,
-            60.4426427
-          ],
-          [
-            22.2573508,
-            60.4432924
-          ],
-          [
-            22.2569734,
-            60.4435651
-          ],
-          [
-            22.2566537,
-            60.443801
-          ],
-          [
-            22.2565298,
-            60.4439071
-          ],
-          [
-            22.2564462,
-            60.4440359
-          ]
-        ]
-      },
-      "id": "way/4238854"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/4238855",
         "highway": "residential",
         "name": "Myötäinen",
-        "name:fi": "Myötäinen"
+        "name:fi": "Myötäinen",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -1988,7 +1869,8 @@
         "is_in": "Turku, Finland",
         "name": "Tammistontie",
         "name:fi": "Tammistontie",
-        "ref": "12157"
+        "ref": "12157",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -3347,81 +3229,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/4275703",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3566062,
-            60.4732151
-          ],
-          [
-            22.3520405,
-            60.4745565
-          ],
-          [
-            22.349879,
-            60.4751857
-          ],
-          [
-            22.3465965,
-            60.4761562
-          ],
-          [
-            22.3433157,
-            60.4771144
-          ],
-          [
-            22.3411178,
-            60.477762
-          ],
-          [
-            22.3392554,
-            60.4782921
-          ],
-          [
-            22.3354773,
-            60.4794144
-          ],
-          [
-            22.333644,
-            60.4799565
-          ],
-          [
-            22.3320171,
-            60.4804511
-          ],
-          [
-            22.3309598,
-            60.4808263
-          ],
-          [
-            22.3298848,
-            60.4812302
-          ],
-          [
-            22.3289487,
-            60.4816024
-          ]
-        ]
-      },
-      "id": "way/4275703"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/4291525",
         "highway": "residential",
         "is_in": "Turku, Finland",
@@ -3478,35 +3285,6 @@
         ]
       },
       "id": "way/4291528"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/4306342",
-        "bridge": "yes",
-        "highway": "trunk",
-        "is_in": "Turku, Finland",
-        "lanes": "3",
-        "layer": "1",
-        "name": "Martinsilta",
-        "name:fi": "Martinsilta",
-        "oneway": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2549438,
-            60.4448894
-          ],
-          [
-            22.2561497,
-            60.4440447
-          ]
-        ]
-      },
-      "id": "way/4306342"
     },
     {
       "type": "Feature",
@@ -3659,6 +3437,36 @@
         ]
       },
       "id": "way/4306436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/4306438",
+        "highway": "secondary",
+        "lanes": "3",
+        "lanes:backward": "2",
+        "lanes:forward": "1",
+        "name": "Kuninkojantie",
+        "name:fi": "Kuninkojantie"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2341822,
+            60.4743704
+          ],
+          [
+            22.234165,
+            60.4744778
+          ],
+          [
+            22.2341115,
+            60.474857
+          ]
+        ]
+      },
+      "id": "way/4306438"
     },
     {
       "type": "Feature",
@@ -5125,7 +4933,8 @@
         "highway": "secondary",
         "lanes": "4",
         "name": "Nuijamaankatu",
-        "name:fi": "Nuijamaankatu"
+        "name:fi": "Nuijamaankatu",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -5829,6 +5638,7 @@
       "properties": {
         "@id": "way/4689831",
         "highway": "secondary",
+        "maxspeed": "50",
         "name": "Rydöntie",
         "name:fi": "Rydöntie",
         "ref": "203"
@@ -7384,6 +7194,10 @@
             60.4488294
           ],
           [
+            22.2154359,
+            60.4491673
+          ],
+          [
             22.2149828,
             60.4499302
           ]
@@ -7588,6 +7402,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/10675004",
+        "fixme": "Is that left-turning road \"Vuoksenniskankatu\"?",
         "highway": "unclassified",
         "is_in": "Turku, Finland",
         "name": "Vuoksenniskankatu",
@@ -7975,49 +7790,6 @@
         ]
       },
       "id": "way/14321225"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/16107867",
-        "highway": "residential",
-        "name": "Takamaantie",
-        "noexit": "yes"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2757973,
-            60.4312206
-          ],
-          [
-            22.275467,
-            60.430772
-          ],
-          [
-            22.2751377,
-            60.4305043
-          ],
-          [
-            22.274605,
-            60.4303179
-          ],
-          [
-            22.2740626,
-            60.4301888
-          ],
-          [
-            22.2735783,
-            60.4302175
-          ],
-          [
-            22.2733943,
-            60.4302653
-          ]
-        ]
-      },
-      "id": "way/16107867"
     },
     {
       "type": "Feature",
@@ -8995,6 +8767,10 @@
           [
             22.3593394,
             60.432649
+          ],
+          [
+            22.3587983,
+            60.4327953
           ],
           [
             22.3582281,
@@ -11097,46 +10873,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/19786544",
-        "highway": "tertiary",
-        "name": "Varkkavuorenkatu",
-        "name:fi": "Varkkavuorenkatu",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2487876,
-            60.4669231
-          ],
-          [
-            22.2488341,
-            60.4670534
-          ],
-          [
-            22.2487842,
-            60.4673903
-          ],
-          [
-            22.2488241,
-            60.4674964
-          ],
-          [
-            22.24884,
-            60.4675387
-          ],
-          [
-            22.2491369,
-            60.4678326
-          ]
-        ]
-      },
-      "id": "way/19786544"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/19849099",
         "highway": "residential",
         "name": "Papinsalmenkatu",
@@ -11178,6 +10914,14 @@
             60.3974984
           ],
           [
+            22.2705741,
+            60.3974392
+          ],
+          [
+            22.2707655,
+            60.3974088
+          ],
+          [
             22.2709886,
             60.3973733
           ],
@@ -11192,6 +10936,10 @@
           [
             22.2730204,
             60.3972026
+          ],
+          [
+            22.2731515,
+            60.397194
           ],
           [
             22.2734874,
@@ -13957,6 +13705,10 @@
             60.4055921
           ],
           [
+            22.2513824,
+            60.4058576
+          ],
+          [
             22.2513324,
             60.4059021
           ],
@@ -14212,32 +13964,36 @@
             60.3951453
           ],
           [
+            22.2692963,
+            60.3949576
+          ],
+          [
             22.2692,
             60.3948743
           ],
           [
-            22.2689225,
-            60.3945685
+            22.2691074,
+            60.3945563
           ],
           [
-            22.2690933,
-            60.3943681
+            22.2693891,
+            60.3942859
           ],
           [
-            22.2694776,
-            60.3940516
+            22.2697549,
+            60.3939572
           ],
           [
-            22.2697765,
-            60.393788
+            22.2699367,
+            60.3937454
           ],
           [
-            22.2697765,
-            60.3934926
+            22.2699429,
+            60.3934104
           ],
           [
-            22.2698843,
-            60.393124
+            22.2697734,
+            60.3931605
           ]
         ]
       },
@@ -14273,6 +14029,10 @@
           [
             22.2728508,
             60.3961294
+          ],
+          [
+            22.2726462,
+            60.3958573
           ],
           [
             22.2725733,
@@ -14858,47 +14618,6 @@
         ]
       },
       "id": "way/22963689"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/22963694",
-        "highway": "residential",
-        "maxspeed": "40",
-        "name": "Takamaantie",
-        "noexit": "yes",
-        "surface": "paved"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2759165,
-            60.4313802
-          ],
-          [
-            22.2767347,
-            60.4323937
-          ],
-          [
-            22.2767726,
-            60.4324577
-          ],
-          [
-            22.2767793,
-            60.4325315
-          ],
-          [
-            22.276723,
-            60.4326406
-          ],
-          [
-            22.276652,
-            60.4327134
-          ]
-        ]
-      },
-      "id": "way/22963694"
     },
     {
       "type": "Feature",
@@ -17574,118 +17293,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/23924666",
-        "highway": "residential",
-        "maxspeed": "40",
-        "name": "Takamaantie",
-        "name:fi": "Takamaantie"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2871676,
-            60.4381472
-          ],
-          [
-            22.2870996,
-            60.438081
-          ],
-          [
-            22.2869256,
-            60.4379318
-          ],
-          [
-            22.2868732,
-            60.4378868
-          ],
-          [
-            22.2865389,
-            60.4376001
-          ],
-          [
-            22.2861083,
-            60.4371861
-          ],
-          [
-            22.2858442,
-            60.4369632
-          ],
-          [
-            22.2856855,
-            60.43686
-          ],
-          [
-            22.2852312,
-            60.436722
-          ],
-          [
-            22.2848839,
-            60.4367371
-          ],
-          [
-            22.2843464,
-            60.4367985
-          ],
-          [
-            22.2842072,
-            60.4368716
-          ],
-          [
-            22.2836064,
-            60.4368546
-          ],
-          [
-            22.2835215,
-            60.4368494
-          ],
-          [
-            22.2829799,
-            60.4368165
-          ],
-          [
-            22.2827052,
-            60.4367445
-          ],
-          [
-            22.28201,
-            60.4365455
-          ],
-          [
-            22.2812633,
-            60.4362491
-          ],
-          [
-            22.2806367,
-            60.4358806
-          ],
-          [
-            22.2801389,
-            60.4354741
-          ],
-          [
-            22.2796754,
-            60.4348219
-          ],
-          [
-            22.279272,
-            60.4341655
-          ],
-          [
-            22.2792033,
-            60.4340553
-          ],
-          [
-            22.2790156,
-            60.4338427
-          ]
-        ]
-      },
-      "id": "way/23924666"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/23946971",
         "highway": "residential",
         "is_in": "Turku, Finland",
@@ -18919,146 +18526,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/24163878",
-        "highway": "residential",
-        "name": "Schalininkatu",
-        "name:fi": "Schalininkatu",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2339668,
-            60.4894096
-          ],
-          [
-            22.2340333,
-            60.4893302
-          ],
-          [
-            22.234208,
-            60.4891215
-          ],
-          [
-            22.2346138,
-            60.4888855
-          ],
-          [
-            22.2348764,
-            60.4887888
-          ],
-          [
-            22.2350963,
-            60.4886933
-          ],
-          [
-            22.2352479,
-            60.4885769
-          ],
-          [
-            22.2353128,
-            60.4884571
-          ],
-          [
-            22.2352919,
-            60.4883225
-          ],
-          [
-            22.2352146,
-            60.4881979
-          ],
-          [
-            22.235021,
-            60.4880797
-          ],
-          [
-            22.2348316,
-            60.4879663
-          ],
-          [
-            22.2346146,
-            60.4878547
-          ],
-          [
-            22.2345164,
-            60.4877857
-          ],
-          [
-            22.2344623,
-            60.4876525
-          ],
-          [
-            22.2345524,
-            60.4875318
-          ]
-        ]
-      },
-      "id": "way/24163878"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/24163942",
-        "highway": "residential",
-        "name": "Capsiankatu",
-        "name:fi": "Capsiankatu",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2368128,
-            60.4900423
-          ],
-          [
-            22.2368672,
-            60.4899734
-          ],
-          [
-            22.2371342,
-            60.4896497
-          ],
-          [
-            22.2372401,
-            60.4894924
-          ],
-          [
-            22.2373034,
-            60.4893282
-          ],
-          [
-            22.2373176,
-            60.4891763
-          ],
-          [
-            22.2373499,
-            60.4889937
-          ],
-          [
-            22.237475,
-            60.4888236
-          ],
-          [
-            22.2375619,
-            60.4887507
-          ],
-          [
-            22.2377123,
-            60.4886433
-          ],
-          [
-            22.2378932,
-            60.4885282
-          ]
-        ]
-      },
-      "id": "way/24163942"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/24164728",
         "highway": "residential",
         "name": "Hyttysenkatu",
@@ -19337,6 +18804,7 @@
       "properties": {
         "@id": "way/24221801",
         "highway": "tertiary",
+        "maxspeed": "50",
         "name": "Ylijoentie",
         "name:fi": "Ylijoentie"
       },
@@ -21933,6 +21401,43 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/24910285",
+        "foot": "yes",
+        "highway": "cycleway",
+        "name": "Kuninkojanpolku",
+        "name:fi": "Kuninkojanpolku",
+        "surface": "paved"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2378487,
+            60.4759293
+          ],
+          [
+            22.2374883,
+            60.4762253
+          ],
+          [
+            22.2370591,
+            60.4765003
+          ],
+          [
+            22.2364754,
+            60.4768386
+          ],
+          [
+            22.2359272,
+            60.477175
+          ]
+        ]
+      },
+      "id": "way/24910285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/25156894",
         "highway": "residential",
         "name": "Koivukatu",
@@ -22035,6 +21540,7 @@
       "properties": {
         "@id": "way/25260202",
         "highway": "tertiary",
+        "maxspeed": "50",
         "name": "Samppaantie",
         "name:fi": "Samppaantie"
       },
@@ -25396,29 +24902,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/29499546",
-        "foot": "yes",
-        "highway": "cycleway",
-        "name": "Eskonpolku"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2453524,
-            60.4810556
-          ],
-          [
-            22.2453266,
-            60.4805904
-          ]
-        ]
-      },
-      "id": "way/29499546"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/29897954",
         "highway": "residential",
         "name": "Kymenlaaksonkuja",
@@ -26133,12 +25616,16 @@
         "type": "LineString",
         "coordinates": [
           [
-            22.2163567,
+            22.2163752,
             60.4644391
           ],
           [
-            22.2166697,
-            60.4644626
+            22.2164568,
+            60.4644466
+          ],
+          [
+            22.2166444,
+            60.4644606
           ],
           [
             22.2168873,
@@ -26251,6 +25738,10 @@
           [
             22.2254491,
             60.4657953
+          ],
+          [
+            22.2254921,
+            60.4657941
           ],
           [
             22.2257334,
@@ -29510,12 +29001,8 @@
             60.4707627
           ],
           [
-            22.2014687,
-            60.4709392
-          ],
-          [
-            22.2014758,
-            60.4709489
+            22.201461,
+            60.4709441
           ]
         ]
       },
@@ -29527,14 +29014,22 @@
         "@id": "way/38003029",
         "highway": "residential",
         "name": "Lähteenkatu",
-        "name:fi": "Pirttilähteenkatu"
+        "name:fi": "Lähteenkatu"
       },
       "geometry": {
         "type": "LineString",
         "coordinates": [
           [
-            22.2219121,
-            60.4706316
+            22.2218873,
+            60.4707789
+          ],
+          [
+            22.2217328,
+            60.4707436
+          ],
+          [
+            22.2212127,
+            60.4706249
           ],
           [
             22.2205301,
@@ -29592,8 +29087,8 @@
             60.4721678
           ],
           [
-            22.2218397,
-            60.4722695
+            22.2218795,
+            60.4722682
           ],
           [
             22.2218678,
@@ -32751,85 +32246,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/44061889",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3049017,
-            60.4948264
-          ],
-          [
-            22.3057606,
-            60.4945566
-          ],
-          [
-            22.3067254,
-            60.494243
-          ],
-          [
-            22.3075761,
-            60.493939
-          ],
-          [
-            22.3083907,
-            60.4936419
-          ],
-          [
-            22.3091461,
-            60.4933482
-          ],
-          [
-            22.3103758,
-            60.4928217
-          ],
-          [
-            22.31138,
-            60.4923616
-          ],
-          [
-            22.3121037,
-            60.4920005
-          ],
-          [
-            22.3129058,
-            60.4915824
-          ],
-          [
-            22.3137149,
-            60.4911291
-          ],
-          [
-            22.3143932,
-            60.4907265
-          ],
-          [
-            22.314966,
-            60.4903581
-          ],
-          [
-            22.3167054,
-            60.4891515
-          ]
-        ]
-      },
-      "id": "way/44061889"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/44061890",
         "bridge": "yes",
         "highway": "trunk",
@@ -32859,73 +32275,6 @@
         ]
       },
       "id": "way/44061890"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/44061891",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3044537,
-            60.4951015
-          ],
-          [
-            22.3037562,
-            60.4952984
-          ],
-          [
-            22.3028509,
-            60.4955379
-          ],
-          [
-            22.3020726,
-            60.4957355
-          ],
-          [
-            22.3017137,
-            60.4958221
-          ],
-          [
-            22.3012391,
-            60.4959366
-          ],
-          [
-            22.2999064,
-            60.4962327
-          ],
-          [
-            22.2986576,
-            60.4964857
-          ],
-          [
-            22.2970486,
-            60.496756
-          ],
-          [
-            22.29613,
-            60.4968901
-          ],
-          [
-            22.2950215,
-            60.4970344
-          ]
-        ]
-      },
-      "id": "way/44061891"
     },
     {
       "type": "Feature",
@@ -34068,6 +33417,10 @@
           [
             22.2387097,
             60.4754334
+          ],
+          [
+            22.237976,
+            60.475856
           ],
           [
             22.2378487,
@@ -35325,6 +34678,7 @@
       "properties": {
         "@id": "way/45833470",
         "highway": "secondary",
+        "maxspeed": "50",
         "name": "Rydöntie",
         "name:fi": "Rydöntie",
         "oneway": "yes",
@@ -35422,163 +34776,6 @@
         ]
       },
       "id": "way/45862871"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/45862875",
-        "foot": "yes",
-        "highway": "cycleway",
-        "name": "Takamaantie",
-        "name:fi": "Takamaantie",
-        "surface": "unpaved"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2790156,
-            60.4338427
-          ],
-          [
-            22.2788976,
-            60.4337101
-          ],
-          [
-            22.2784336,
-            60.4333276
-          ],
-          [
-            22.2774061,
-            60.4328688
-          ]
-        ]
-      },
-      "id": "way/45862875"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/46037271",
-        "highway": "tertiary",
-        "history": "Retrieved from v1",
-        "name": "Moisiontie",
-        "name:fi": "Moisiontie"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2892806,
-            60.5097701
-          ],
-          [
-            22.2892709,
-            60.5098366
-          ],
-          [
-            22.2893048,
-            60.5105452
-          ],
-          [
-            22.289568,
-            60.5108005
-          ],
-          [
-            22.2896811,
-            60.5109102
-          ],
-          [
-            22.2905047,
-            60.511709
-          ],
-          [
-            22.2909533,
-            60.5121441
-          ],
-          [
-            22.291532,
-            60.5128798
-          ],
-          [
-            22.2919643,
-            60.5135283
-          ],
-          [
-            22.2922626,
-            60.514209
-          ],
-          [
-            22.2924747,
-            60.5148397
-          ],
-          [
-            22.2925412,
-            60.5153595
-          ],
-          [
-            22.2929072,
-            60.5170714
-          ],
-          [
-            22.2931061,
-            60.5179447
-          ],
-          [
-            22.2932469,
-            60.5185985
-          ],
-          [
-            22.2932592,
-            60.5186555
-          ],
-          [
-            22.2936005,
-            60.5201035
-          ],
-          [
-            22.293665,
-            60.5204266
-          ],
-          [
-            22.2939771,
-            60.5217444
-          ],
-          [
-            22.2940596,
-            60.5224704
-          ],
-          [
-            22.2939779,
-            60.5234502
-          ],
-          [
-            22.2939771,
-            60.5234602
-          ],
-          [
-            22.2938534,
-            60.5240222
-          ],
-          [
-            22.2937389,
-            60.5243351
-          ],
-          [
-            22.2934572,
-            60.5248978
-          ],
-          [
-            22.2927563,
-            60.526298
-          ],
-          [
-            22.291555,
-            60.528423
-          ]
-        ]
-      },
-      "id": "way/46037271"
     },
     {
       "type": "Feature",
@@ -36006,7 +35203,8 @@
       "properties": {
         "@id": "way/46037862",
         "highway": "tertiary",
-        "name": "Auvaismäentie"
+        "name": "Auvaismäentie",
+        "ref": "12266"
       },
       "geometry": {
         "type": "LineString",
@@ -36553,250 +35751,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/46875648",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2501057,
-            60.4981215
-          ],
-          [
-            22.2481135,
-            60.4980663
-          ],
-          [
-            22.2460748,
-            60.4979801
-          ],
-          [
-            22.2446314,
-            60.4979014
-          ],
-          [
-            22.2434704,
-            60.4978296
-          ],
-          [
-            22.2408135,
-            60.497645
-          ],
-          [
-            22.2387896,
-            60.4974944
-          ],
-          [
-            22.2368164,
-            60.4973279
-          ],
-          [
-            22.2359066,
-            60.4972364
-          ],
-          [
-            22.2344858,
-            60.4970935
-          ],
-          [
-            22.233311,
-            60.4969678
-          ],
-          [
-            22.2321155,
-            60.4968271
-          ]
-        ]
-      },
-      "id": "way/46875648"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/46875658",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2508897,
-            60.4980212
-          ],
-          [
-            22.2518242,
-            60.4980451
-          ],
-          [
-            22.2535682,
-            60.4980806
-          ],
-          [
-            22.2552483,
-            60.4981059
-          ],
-          [
-            22.2571169,
-            60.4981057
-          ],
-          [
-            22.2594634,
-            60.4980832
-          ],
-          [
-            22.2626511,
-            60.497992
-          ],
-          [
-            22.2654281,
-            60.497899
-          ],
-          [
-            22.2694173,
-            60.4977612
-          ],
-          [
-            22.2712402,
-            60.4977022
-          ],
-          [
-            22.2731336,
-            60.497641
-          ],
-          [
-            22.2757762,
-            60.4975671
-          ],
-          [
-            22.278087,
-            60.4975222
-          ],
-          [
-            22.2804773,
-            60.4974737
-          ],
-          [
-            22.2865705,
-            60.4973827
-          ],
-          [
-            22.288623,
-            60.497348
-          ],
-          [
-            22.2899033,
-            60.4973126
-          ],
-          [
-            22.2911835,
-            60.4972512
-          ],
-          [
-            22.2925836,
-            60.4971567
-          ],
-          [
-            22.2938218,
-            60.4970445
-          ],
-          [
-            22.294202,
-            60.4969983
-          ]
-        ]
-      },
-      "id": "way/46875658"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/46875661",
-        "bridge": "yes",
-        "highway": "trunk",
-        "lanes": "2",
-        "layer": "1",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2501376,
-            60.4980005
-          ],
-          [
-            22.2508897,
-            60.4980212
-          ]
-        ]
-      },
-      "id": "way/46875661"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/46875662",
-        "bridge": "yes",
-        "highway": "trunk",
-        "lanes": "2",
-        "layer": "1",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2508625,
-            60.4981434
-          ],
-          [
-            22.2501057,
-            60.4981215
-          ]
-        ]
-      },
-      "id": "way/46875662"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/46955353",
         "foot": "yes",
         "highway": "cycleway",
@@ -36829,222 +35783,6 @@
         ]
       },
       "id": "way/46955353"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/47019474",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3171355,
-            60.4888406
-          ],
-          [
-            22.318358,
-            60.4879527
-          ],
-          [
-            22.3197825,
-            60.4869349
-          ],
-          [
-            22.3206218,
-            60.4863142
-          ],
-          [
-            22.3219192,
-            60.4853764
-          ],
-          [
-            22.323035,
-            60.4845856
-          ],
-          [
-            22.3239842,
-            60.4839689
-          ],
-          [
-            22.3250216,
-            60.4833605
-          ],
-          [
-            22.3263486,
-            60.4826347
-          ],
-          [
-            22.327789,
-            60.4819455
-          ],
-          [
-            22.3287462,
-            60.4815351
-          ],
-          [
-            22.3297679,
-            60.4811204
-          ]
-        ]
-      },
-      "id": "way/47019474"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/47019475",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3167671,
-            60.4893184
-          ],
-          [
-            22.3151606,
-            60.4904389
-          ],
-          [
-            22.3145795,
-            60.4908087
-          ],
-          [
-            22.3139039,
-            60.4912058
-          ],
-          [
-            22.3130977,
-            60.4916577
-          ],
-          [
-            22.3122413,
-            60.4921028
-          ],
-          [
-            22.3115577,
-            60.4924467
-          ],
-          [
-            22.3105674,
-            60.4929064
-          ],
-          [
-            22.3092946,
-            60.4934451
-          ],
-          [
-            22.3085242,
-            60.493746
-          ],
-          [
-            22.3077151,
-            60.4940417
-          ],
-          [
-            22.3068755,
-            60.4943389
-          ],
-          [
-            22.305908,
-            60.4946607
-          ],
-          [
-            22.305137,
-            60.494899
-          ]
-        ]
-      },
-      "id": "way/47019475"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/47019480",
-        "bridge": "yes",
-        "highway": "trunk",
-        "lanes": "2",
-        "layer": "1",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3167054,
-            60.4891515
-          ],
-          [
-            22.3171355,
-            60.4888406
-          ]
-        ]
-      },
-      "id": "way/47019480"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/47019481",
-        "bridge": "yes",
-        "highway": "trunk",
-        "lanes": "2",
-        "layer": "1",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3174597,
-            60.4888157
-          ],
-          [
-            22.3167671,
-            60.4893184
-          ]
-        ]
-      },
-      "id": "way/47019481"
     },
     {
       "type": "Feature",
@@ -37179,6 +35917,10 @@
           [
             22.2150201,
             60.4721922
+          ],
+          [
+            22.2148475,
+            60.4721889
           ],
           [
             22.2147242,
@@ -39159,7 +37901,8 @@
         "is_in": "Turku, Finland",
         "name": "Tammistontie",
         "name:fi": "Tammistontie",
-        "ref": "12157"
+        "ref": "12157",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -40014,20 +38757,24 @@
             60.5083238
           ],
           [
-            22.3091497,
-            60.5086695
+            22.3092943,
+            60.5088057
           ],
           [
-            22.3100245,
-            60.5092458
+            22.3098576,
+            60.5092203
           ],
           [
-            22.3106952,
-            60.5096488
+            22.3104101,
+            60.5096771
           ],
           [
-            22.3107508,
-            60.5096822
+            22.3104713,
+            60.5097323
+          ],
+          [
+            22.3105249,
+            60.5097806
           ]
         ]
       },
@@ -40712,6 +39459,10 @@
             60.5336177
           ],
           [
+            22.2744726,
+            60.5335763
+          ],
+          [
             22.2741446,
             60.533548
           ],
@@ -40841,6 +39592,10 @@
           [
             22.3568262,
             60.5721646
+          ],
+          [
+            22.357204,
+            60.572158
           ],
           [
             22.357427,
@@ -43348,6 +42103,136 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/88495076",
+        "highway": "residential",
+        "name": "Ketussuontie"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.3034503,
+            60.5130285
+          ],
+          [
+            22.3035656,
+            60.5134663
+          ],
+          [
+            22.3036568,
+            60.5138888
+          ],
+          [
+            22.3037694,
+            60.5142848
+          ],
+          [
+            22.3039304,
+            60.514776
+          ],
+          [
+            22.3039679,
+            60.5149476
+          ],
+          [
+            22.3040001,
+            60.5151218
+          ],
+          [
+            22.3039465,
+            60.5152195
+          ],
+          [
+            22.3038499,
+            60.5153436
+          ],
+          [
+            22.3035441,
+            60.5155707
+          ],
+          [
+            22.3034522,
+            60.5156367
+          ],
+          [
+            22.3032759,
+            60.5157634
+          ],
+          [
+            22.3031364,
+            60.5159034
+          ],
+          [
+            22.3030828,
+            60.5160618
+          ],
+          [
+            22.3031096,
+            60.5162519
+          ],
+          [
+            22.3031847,
+            60.5164948
+          ],
+          [
+            22.3033886,
+            60.5169753
+          ],
+          [
+            22.3034422,
+            60.5171601
+          ],
+          [
+            22.3035119,
+            60.5172631
+          ],
+          [
+            22.3035555,
+            60.517279
+          ],
+          [
+            22.3036353,
+            60.517308
+          ],
+          [
+            22.3039196,
+            60.5173449
+          ],
+          [
+            22.3045419,
+            60.517403
+          ],
+          [
+            22.3046867,
+            60.5174268
+          ],
+          [
+            22.3047833,
+            60.5175112
+          ],
+          [
+            22.3050354,
+            60.5177198
+          ],
+          [
+            22.3051427,
+            60.5178967
+          ],
+          [
+            22.3052178,
+            60.5180446
+          ],
+          [
+            22.305309,
+            60.5181422
+          ]
+        ]
+      },
+      "id": "way/88495076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/88799751",
         "highway": "unclassified",
         "name": "Ylikylänmäki",
@@ -43662,6 +42547,48 @@
         ]
       },
       "id": "way/89817525"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/89818407",
+        "highway": "residential",
+        "name": "Ketussuonkuja"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.3050593,
+            60.5126946
+          ],
+          [
+            22.3056472,
+            60.5137541
+          ],
+          [
+            22.3057062,
+            60.5139072
+          ],
+          [
+            22.3056258,
+            60.5140392
+          ],
+          [
+            22.3048265,
+            60.5144749
+          ],
+          [
+            22.3044671,
+            60.5146492
+          ],
+          [
+            22.3039679,
+            60.5149476
+          ]
+        ]
+      },
+      "id": "way/89818407"
     },
     {
       "type": "Feature",
@@ -46464,6 +45391,10 @@
             60.4752722
           ],
           [
+            22.2580483,
+            60.4748129
+          ],
+          [
             22.2588071,
             60.4743962
           ],
@@ -46510,6 +45441,10 @@
           [
             22.2644325,
             60.4704219
+          ],
+          [
+            22.2653443,
+            60.4695087
           ],
           [
             22.2655602,
@@ -47092,6 +46027,7 @@
       "properties": {
         "@id": "way/114852777",
         "highway": "secondary",
+        "maxspeed": "50",
         "name": "Rydöntie",
         "name:fi": "Rydöntie",
         "oneway": "yes"
@@ -47200,6 +46136,7 @@
       "properties": {
         "@id": "way/114852780",
         "highway": "secondary",
+        "maxspeed": "50",
         "name": "Rydöntie",
         "name:fi": "Rydöntie",
         "oneway": "yes"
@@ -47224,6 +46161,7 @@
       "properties": {
         "@id": "way/114852781",
         "highway": "secondary",
+        "maxspeed": "50",
         "name": "Rydöntie",
         "name:fi": "Rydöntie"
       },
@@ -47355,6 +46293,7 @@
       "properties": {
         "@id": "way/114852782",
         "highway": "secondary",
+        "maxspeed": "50",
         "name": "Rydöntie",
         "name:fi": "Rydöntie",
         "oneway": "yes",
@@ -47384,6 +46323,7 @@
       "properties": {
         "@id": "way/114852784",
         "highway": "secondary",
+        "maxspeed": "50",
         "name": "Rydöntie",
         "name:fi": "Rydöntie",
         "oneway": "yes"
@@ -47466,7 +46406,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/115987274",
-        "highway": "service",
+        "highway": "unclassified",
         "name": "Suihkarintie",
         "name:fi": "Suihkarintie"
       },
@@ -47580,34 +46520,6 @@
           [
             22.2784507,
             60.5206882
-          ],
-          [
-            22.2781997,
-            60.520732
-          ],
-          [
-            22.2776393,
-            60.5209802
-          ],
-          [
-            22.2769294,
-            60.5212008
-          ],
-          [
-            22.2764811,
-            60.5213019
-          ],
-          [
-            22.2759207,
-            60.5213387
-          ],
-          [
-            22.274968,
-            60.5212375
-          ],
-          [
-            22.2744076,
-            60.5212651
           ]
         ]
       },
@@ -48394,105 +47306,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/119400860",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.294236,
-            60.497125
-          ],
-          [
-            22.2926508,
-            60.4972698
-          ],
-          [
-            22.29122,
-            60.4973718
-          ],
-          [
-            22.2899771,
-            60.4974341
-          ],
-          [
-            22.2886384,
-            60.4974681
-          ],
-          [
-            22.286567,
-            60.497504
-          ],
-          [
-            22.280485,
-            60.4975987
-          ],
-          [
-            22.2780726,
-            60.4976356
-          ],
-          [
-            22.2756703,
-            60.4976947
-          ],
-          [
-            22.2731339,
-            60.4977631
-          ],
-          [
-            22.2712645,
-            60.4978225
-          ],
-          [
-            22.2694343,
-            60.4978806
-          ],
-          [
-            22.2626418,
-            60.4981159
-          ],
-          [
-            22.2592349,
-            60.4982086
-          ],
-          [
-            22.2570999,
-            60.4982248
-          ],
-          [
-            22.2552676,
-            60.4982245
-          ],
-          [
-            22.2535796,
-            60.4982097
-          ],
-          [
-            22.2520527,
-            60.4981756
-          ],
-          [
-            22.2508625,
-            60.4981434
-          ]
-        ]
-      },
-      "id": "way/119400860"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/119400861",
         "bridge": "yes",
         "highway": "trunk",
@@ -48555,73 +47368,6 @@
         ]
       },
       "id": "way/119400862"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/119400863",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2949833,
-            60.4969137
-          ],
-          [
-            22.2960954,
-            60.4967729
-          ],
-          [
-            22.29705,
-            60.496638
-          ],
-          [
-            22.2987653,
-            60.4963271
-          ],
-          [
-            22.2997895,
-            60.4961269
-          ],
-          [
-            22.3011512,
-            60.4958133
-          ],
-          [
-            22.3015891,
-            60.4957103
-          ],
-          [
-            22.3020103,
-            60.4956112
-          ],
-          [
-            22.3027979,
-            60.4954143
-          ],
-          [
-            22.3037506,
-            60.4951629
-          ],
-          [
-            22.3044509,
-            60.4949591
-          ]
-        ]
-      },
-      "id": "way/119400863"
     },
     {
       "type": "Feature",
@@ -48937,37 +47683,6 @@
         ]
       },
       "id": "way/124263659"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/124991489",
-        "highway": "residential",
-        "name": "Särkyneensydämenpolku",
-        "name:fi": "Särkyneensydämenpolku"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.237367,
-            60.4920302
-          ],
-          [
-            22.2373404,
-            60.4915496
-          ],
-          [
-            22.237357,
-            60.4914417
-          ],
-          [
-            22.2374068,
-            60.4911589
-          ]
-        ]
-      },
-      "id": "way/124991489"
     },
     {
       "type": "Feature",
@@ -52419,57 +51134,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/156703416",
-        "highway": "residential",
-        "name": "Ilmatie",
-        "name:fi": "Ilmatie"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2937424,
-            60.5079073
-          ],
-          [
-            22.2939618,
-            60.5077462
-          ],
-          [
-            22.293892,
-            60.5076406
-          ],
-          [
-            22.2938849,
-            60.5076415
-          ],
-          [
-            22.2936775,
-            60.507667
-          ],
-          [
-            22.2936614,
-            60.5078492
-          ],
-          [
-            22.2937424,
-            60.5079073
-          ],
-          [
-            22.2940199,
-            60.508237
-          ],
-          [
-            22.2949483,
-            60.509325
-          ]
-        ]
-      },
-      "id": "way/156703416"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/156703417",
         "highway": "residential",
         "name": "Aerokuja",
@@ -52499,7 +51163,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/156703419",
-        "highway": "unclassified",
+        "highway": "residential",
         "name": "Kopteritie",
         "name:fi": "Kopteritie",
         "surface": "asphalt"
@@ -52508,285 +51172,52 @@
         "type": "LineString",
         "coordinates": [
           [
-            22.2847794,
-            60.5028606
+            22.2857767,
+            60.5031907
           ],
           [
-            22.2844888,
-            60.5027784
+            22.2855621,
+            60.5031696
+          ],
+          [
+            22.2852992,
+            60.5030983
+          ],
+          [
+            22.2849291,
+            60.5029557
+          ],
+          [
+            22.2847896,
+            60.5028976
+          ],
+          [
+            22.2846502,
+            60.5028659
+          ],
+          [
+            22.2844248,
+            60.5028711
+          ],
+          [
+            22.2841352,
+            60.5029425
           ],
           [
             22.283814,
             60.5031199
           ],
           [
-            22.2824686,
-            60.5035328
+            22.2823692,
+            60.5035082
           ],
           [
-            22.2820802,
-            60.5036273
+            22.2818875,
+            60.503616
           ]
         ]
       },
       "id": "way/156703419"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/156703422",
-        "access": "no",
-        "highway": "unclassified",
-        "name": "Moisiontie",
-        "name:fi": "Moisiontie"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2846218,
-            60.5064372
-          ],
-          [
-            22.2877383,
-            60.5092097
-          ],
-          [
-            22.2883928,
-            60.5095853
-          ]
-        ]
-      },
-      "id": "way/156703422"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/156703423",
-        "highway": "residential",
-        "name": "Aerotie",
-        "name:fi": "Aerotie",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2833719,
-            60.5049001
-          ],
-          [
-            22.2835553,
-            60.5049808
-          ],
-          [
-            22.2838331,
-            60.5051088
-          ],
-          [
-            22.2848201,
-            60.5054257
-          ],
-          [
-            22.2867084,
-            60.505954
-          ],
-          [
-            22.2869402,
-            60.5060338
-          ],
-          [
-            22.2878135,
-            60.5063343
-          ],
-          [
-            22.288557,
-            60.5067012
-          ],
-          [
-            22.2889078,
-            60.5070632
-          ],
-          [
-            22.2892404,
-            60.5075703
-          ],
-          [
-            22.2893048,
-            60.508352
-          ],
-          [
-            22.2893144,
-            60.5084787
-          ],
-          [
-            22.2893638,
-            60.5091326
-          ],
-          [
-            22.2892806,
-            60.5097701
-          ]
-        ]
-      },
-      "id": "way/156703423"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/157769215",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3218471,
-            60.4856395
-          ],
-          [
-            22.3208274,
-            60.4863808
-          ],
-          [
-            22.3199786,
-            60.4870065
-          ],
-          [
-            22.3185512,
-            60.4880316
-          ],
-          [
-            22.3174597,
-            60.4888157
-          ]
-        ]
-      },
-      "id": "way/157769215"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/157769216",
-        "highway": "trunk",
-        "lanes": "3",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3289487,
-            60.4816024
-          ],
-          [
-            22.3279786,
-            60.4820295
-          ],
-          [
-            22.3265356,
-            60.4827075
-          ],
-          [
-            22.3251966,
-            60.483446
-          ],
-          [
-            22.3241863,
-            60.4840432
-          ],
-          [
-            22.3232492,
-            60.4846492
-          ],
-          [
-            22.3218471,
-            60.4856395
-          ]
-        ]
-      },
-      "id": "way/157769216"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/157769650",
-        "highway": "trunk",
-        "lanes": "2",
-        "lit": "yes",
-        "maxspeed": "100",
-        "name": "Turun kehätie",
-        "name:fi": "Turun kehätie",
-        "oneway": "yes",
-        "priority_road": "designated",
-        "ref": "40",
-        "snowplowing": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.3318908,
-            60.4803515
-          ],
-          [
-            22.333512,
-            60.4798506
-          ],
-          [
-            22.3353326,
-            60.4793172
-          ],
-          [
-            22.3372953,
-            60.4787327
-          ],
-          [
-            22.3391407,
-            60.4781913
-          ],
-          [
-            22.3431831,
-            60.4770055
-          ],
-          [
-            22.3464608,
-            60.4760503
-          ],
-          [
-            22.3497372,
-            60.4750828
-          ],
-          [
-            22.3519127,
-            60.4744471
-          ],
-          [
-            22.3564638,
-            60.4731172
-          ]
-        ]
-      },
-      "id": "way/157769650"
     },
     {
       "type": "Feature",
@@ -52822,49 +51253,6 @@
         ]
       },
       "id": "way/157769651"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/157828812",
-        "highway": "unclassified",
-        "name": "Moisiontie",
-        "name:fi": "Moisiontie"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2813447,
-            60.5018267
-          ],
-          [
-            22.2813752,
-            60.5022564
-          ],
-          [
-            22.2815027,
-            60.5025877
-          ],
-          [
-            22.2816696,
-            60.5029472
-          ],
-          [
-            22.2819348,
-            60.5034311
-          ],
-          [
-            22.2820802,
-            60.5036273
-          ],
-          [
-            22.2822642,
-            60.5038682
-          ]
-        ]
-      },
-      "id": "way/157828812"
     },
     {
       "type": "Feature",
@@ -54385,6 +52773,10 @@
             60.5325573
           ],
           [
+            22.2856266,
+            60.5331352
+          ],
+          [
             22.2857652,
             60.5334165
           ],
@@ -54516,8 +52908,20 @@
             60.4831311
           ],
           [
+            22.2319259,
+            60.4832181
+          ],
+          [
+            22.2319055,
+            60.4832859
+          ],
+          [
             22.2318915,
             60.4833322
+          ],
+          [
+            22.2318907,
+            60.4833436
           ],
           [
             22.2318695,
@@ -54610,7 +53014,8 @@
         "highway": "secondary",
         "lanes": "2",
         "name": "Kuninkojantie",
-        "name:fi": "Kuninkojantie"
+        "name:fi": "Kuninkojantie",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -54695,66 +53100,6 @@
         ]
       },
       "id": "way/171385746"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/171385947",
-        "highway": "residential",
-        "name": "Rautalankatu",
-        "name:fi": "Rautalankatu",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2398012,
-            60.4850786
-          ],
-          [
-            22.2390346,
-            60.4850762
-          ],
-          [
-            22.2389713,
-            60.485076
-          ],
-          [
-            22.2389267,
-            60.4850771
-          ],
-          [
-            22.2388709,
-            60.485078
-          ],
-          [
-            22.2388376,
-            60.4851116
-          ],
-          [
-            22.238687,
-            60.4852661
-          ],
-          [
-            22.238511,
-            60.4853684
-          ],
-          [
-            22.2383671,
-            60.4854335
-          ],
-          [
-            22.2380119,
-            60.4855538
-          ],
-          [
-            22.23772,
-            60.4856315
-          ]
-        ]
-      },
-      "id": "way/171385947"
     },
     {
       "type": "Feature",
@@ -59807,8 +58152,8 @@
             60.4941973
           ],
           [
-            22.2541165,
-            60.494164
+            22.2541188,
+            60.4941663
           ],
           [
             22.2539958,
@@ -60311,7 +58656,8 @@
         "bridge": "yes",
         "highway": "tertiary",
         "layer": "1",
-        "name": "Auvaismäentie"
+        "name": "Auvaismäentie",
+        "ref": "12266"
       },
       "geometry": {
         "type": "LineString",
@@ -60333,7 +58679,8 @@
       "properties": {
         "@id": "way/183751542",
         "highway": "tertiary",
-        "name": "Auvaismäentie"
+        "name": "Auvaismäentie",
+        "ref": "12266"
       },
       "geometry": {
         "type": "LineString",
@@ -60529,6 +58876,10 @@
           [
             22.3540713,
             60.5723356
+          ],
+          [
+            22.3537357,
+            60.5725148
           ],
           [
             22.3535212,
@@ -63406,7 +61757,8 @@
         "@id": "way/224627679",
         "highway": "residential",
         "name": "Laitainen",
-        "name:fi": "Laitainen"
+        "name:fi": "Laitainen",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -63473,7 +61825,8 @@
         "@id": "way/224628488",
         "highway": "residential",
         "name": "Puhuri",
-        "name:fi": "Puhuri"
+        "name:fi": "Puhuri",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -65124,37 +63477,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/253577039",
-        "highway": "unclassified",
-        "name": "Moisiontie",
-        "name:fi": "Moisiontie"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2835553,
-            60.5049808
-          ],
-          [
-            22.2835268,
-            60.5051408
-          ],
-          [
-            22.2844628,
-            60.5062717
-          ],
-          [
-            22.2846218,
-            60.5064372
-          ]
-        ]
-      },
-      "id": "way/253577039"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/259323885",
         "highway": "residential",
         "name": "Kuparikatu",
@@ -65833,7 +64155,8 @@
       "properties": {
         "@id": "way/275429563",
         "highway": "tertiary",
-        "name": "Auvaismäentie"
+        "name": "Auvaismäentie",
+        "ref": "12266"
       },
       "geometry": {
         "type": "LineString",
@@ -68068,6 +66391,10 @@
             60.4284445
           ],
           [
+            22.3201225,
+            60.4284617
+          ],
+          [
             22.321003,
             60.4285611
           ],
@@ -68206,37 +66533,6 @@
         ]
       },
       "id": "way/314485830"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/314788105",
-        "highway": "unclassified",
-        "name": "Moisiontie",
-        "name:fi": "Moisiontie"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2822642,
-            60.5038682
-          ],
-          [
-            22.2826847,
-            60.5043434
-          ],
-          [
-            22.2831531,
-            60.5047226
-          ],
-          [
-            22.2833719,
-            60.5049001
-          ]
-        ]
-      },
-      "id": "way/314788105"
     },
     {
       "type": "Feature",
@@ -68391,8 +66687,39 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/316267089",
+        "@id": "way/316147398",
         "highway": "residential",
+        "name": "Santalankuja",
+        "name:fi": "Santalankuja"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2404027,
+            60.4768006
+          ],
+          [
+            22.238847,
+            60.4762945
+          ],
+          [
+            22.2379501,
+            60.4760028
+          ],
+          [
+            22.2378487,
+            60.4759293
+          ]
+        ]
+      },
+      "id": "way/316147398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/316267089",
+        "highway": "service",
         "name": "Ahterikatu",
         "surface": "paved"
       },
@@ -70268,7 +68595,8 @@
         "@id": "way/355176126",
         "highway": "residential",
         "name": "Suvilinnantie",
-        "name:fi": "Suvilinnantie"
+        "name:fi": "Suvilinnantie",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -70324,10 +68652,33 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/355176127",
+        "highway": "road",
+        "name": "Viittakarinkuja"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2200838,
+            60.3907322
+          ],
+          [
+            22.2198349,
+            60.3907527
+          ]
+        ]
+      },
+      "id": "way/355176127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/355177132",
         "highway": "residential",
         "name": "Aamunkoitonkatu",
-        "name:fi": "Aamunkoitonkatu"
+        "name:fi": "Aamunkoitonkatu",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -71517,60 +69868,80 @@
         "type": "LineString",
         "coordinates": [
           [
-            22.2218817,
-            60.4719048
+            22.2218516,
+            60.4719094
           ],
           [
-            22.2216933,
-            60.4716691
+            22.2217738,
+            60.4716876
           ],
           [
-            22.2216764,
-            60.4715769
+            22.2215101,
+            60.4713865
           ],
           [
-            22.2215915,
-            60.4712943
+            22.221473,
+            60.4712402
           ],
           [
-            22.2218605,
-            60.4709349
+            22.221511,
+            60.4710881
           ],
           [
-            22.2221578,
-            60.4707605
+            22.2216703,
+            60.4709221
           ],
           [
-            22.2224834,
-            60.4706524
+            22.2218873,
+            60.4707789
           ],
           [
-            22.223078,
-            60.4706419
+            22.222139,
+            60.4706915
           ],
           [
-            22.223623,
-            60.4706872
+            22.2223267,
+            60.4706436
           ],
           [
-            22.2238141,
-            60.4707396
+            22.2225317,
+            60.4706127
           ],
           [
-            22.2238488,
-            60.4707666
+            22.2228209,
+            60.4706018
           ],
           [
-            22.2237918,
-            60.4707867
+            22.2231218,
+            60.4706008
+          ],
+          [
+            22.2233604,
+            60.4706201
+          ],
+          [
+            22.2236337,
+            60.4706423
+          ],
+          [
+            22.2239036,
+            60.4706471
+          ],
+          [
+            22.2239758,
+            60.4707026
+          ],
+          [
+            22.2238957,
+            60.4707397
           ],
           [
             22.2237187,
-            60.4707626
+            60.4707171
           ],
           [
-            22.223623,
-            60.4706872
+            22.2236337,
+            60.4706423
           ]
         ]
       },
@@ -71580,7 +69951,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/392356437",
-        "fixme": "Does the western part exist?",
+        "fixme": "at least eastern part have different name",
         "highway": "residential",
         "name": "Pryssinkuja"
       },
@@ -71588,20 +69959,24 @@
         "type": "LineString",
         "coordinates": [
           [
-            22.2211168,
-            60.4716025
+            22.2209559,
+            60.471666
           ],
           [
-            22.2216933,
-            60.4716691
+            22.2215511,
+            60.4716817
           ],
           [
-            22.2227937,
-            60.4716491
+            22.2217738,
+            60.4716876
           ],
           [
-            22.2239481,
-            60.471657
+            22.2235332,
+            60.4716788
+          ],
+          [
+            22.2237522,
+            60.4716777
           ]
         ]
       },
@@ -71763,8 +70138,8 @@
             60.4720424
           ],
           [
-            22.2218817,
-            60.4719048
+            22.2218516,
+            60.4719094
           ]
         ]
       },
@@ -76379,6 +74754,34 @@
     {
       "type": "Feature",
       "properties": {
+        "@id": "way/478242099",
+        "highway": "secondary",
+        "lanes": "2",
+        "name": "Kuninkojantie",
+        "name:fi": "Kuninkojantie"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2341115,
+            60.474857
+          ],
+          [
+            22.2340853,
+            60.4753766
+          ],
+          [
+            22.2341311,
+            60.4756289
+          ]
+        ]
+      },
+      "id": "way/478242099"
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "@id": "way/478242100",
         "highway": "secondary",
         "lanes": "4",
@@ -76433,8 +74836,12 @@
             60.4733671
           ],
           [
-            22.2343552,
-            60.4730782
+            22.2343335,
+            60.4731743
+          ],
+          [
+            22.2343572,
+            60.4730401
           ]
         ]
       },
@@ -76452,8 +74859,8 @@
         "type": "LineString",
         "coordinates": [
           [
-            22.2343552,
-            60.4730782
+            22.2343572,
+            60.4730401
           ],
           [
             22.2343699,
@@ -76488,12 +74895,20 @@
             60.4713374
           ],
           [
+            22.2348811,
+            60.4712527
+          ],
+          [
             22.2349949,
             60.4711141
           ],
           [
             22.2352561,
             60.4709089
+          ],
+          [
+            22.2355487,
+            60.4706915
           ],
           [
             22.2356678,
@@ -78850,43 +77265,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/493640263",
-        "highway": "tertiary",
-        "lanes": "1",
-        "name": "Aurorankatu",
-        "oneway": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2338739,
-            60.48939
-          ],
-          [
-            22.2333007,
-            60.4893398
-          ],
-          [
-            22.2330457,
-            60.4893094
-          ],
-          [
-            22.2329782,
-            60.4893006
-          ],
-          [
-            22.2329031,
-            60.489307
-          ]
-        ]
-      },
-      "id": "way/493640263"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/493956999",
         "highway": "secondary",
         "name": "Nuijamaankatu",
@@ -79021,8 +77399,8 @@
             60.4860025
           ],
           [
-            22.233544,
-            60.4860093
+            22.2334646,
+            60.4860078
           ],
           [
             22.2333231,
@@ -79106,6 +77484,7 @@
         "leisure_1": "recreation_ground",
         "lit": "yes",
         "name": "Nunnavuoren kuntorata",
+        "name:fi": "Nunnavuoren kuntorata",
         "piste:grooming": "classic+skating",
         "piste:oneway": "yes",
         "piste:priority": "2",
@@ -79339,6 +77718,174 @@
         ]
       },
       "id": "way/495842205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496677801",
+        "highway": "residential",
+        "name": "Pläkkikaupunginkatu",
+        "name:fi": "Pläkkikaupunginkatu",
+        "oneway": "yes"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2148649,
+            60.4718185
+          ],
+          [
+            22.2148714,
+            60.4716452
+          ],
+          [
+            22.2148784,
+            60.4715386
+          ],
+          [
+            22.2149421,
+            60.4714354
+          ]
+        ]
+      },
+      "id": "way/496677801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496925859",
+        "highway": "residential",
+        "name": "Ketushaara",
+        "source": "mml"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.3064463,
+            60.516397
+          ],
+          [
+            22.3046814,
+            60.5162016
+          ],
+          [
+            22.3045205,
+            60.5161646
+          ],
+          [
+            22.3044132,
+            60.5161118
+          ],
+          [
+            22.3041772,
+            60.515956
+          ],
+          [
+            22.3038714,
+            60.515824
+          ],
+          [
+            22.3036193,
+            60.5157237
+          ],
+          [
+            22.3034522,
+            60.5156367
+          ]
+        ]
+      },
+      "id": "way/496925859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496925872",
+        "highway": "residential",
+        "name": "Vieru"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.2847092,
+            60.5332402
+          ],
+          [
+            22.2856266,
+            60.5331352
+          ]
+        ]
+      },
+      "id": "way/496925872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/496925878",
+        "highway": "residential",
+        "name": "Vaijerikatu",
+        "source": "mml"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            22.3138385,
+            60.5117604
+          ],
+          [
+            22.3132371,
+            60.5118795
+          ],
+          [
+            22.3131273,
+            60.5119037
+          ],
+          [
+            22.3129743,
+            60.5119376
+          ],
+          [
+            22.3121052,
+            60.5121567
+          ],
+          [
+            22.311285,
+            60.512336
+          ],
+          [
+            22.3106944,
+            60.5124974
+          ],
+          [
+            22.3101156,
+            60.5127004
+          ],
+          [
+            22.3098474,
+            60.5128377
+          ],
+          [
+            22.3095952,
+            60.5129882
+          ],
+          [
+            22.3093163,
+            60.5130727
+          ],
+          [
+            22.309032,
+            60.5131124
+          ],
+          [
+            22.3086974,
+            60.513134
+          ]
+        ]
+      },
+      "id": "way/496925878"
     }
   ]
 }
