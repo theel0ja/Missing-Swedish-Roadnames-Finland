@@ -1,0 +1,12 @@
+{
+  "name": "@theel0ja/missing-swedish-roadnames-finland",
+  "private": true,
+  "devDependencies": {
+    "grunt": "^0.4.3",
+    "grunt-jsonlint": "^1.0.4",
+    "grunt-cli": "^0.1.13"
+  },
+  "scripts": {
+    "test": "grunt travis --verbose"
+  }
+}
