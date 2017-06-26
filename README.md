@@ -22,5 +22,6 @@ out body;
 >;
 out skel qt;
 ```
+Shortcuts: [Turku](http://overpass-turbo.eu/s/q0M)<!--, [Helsinki](), [Espoo]()-->
 2. Press "Run".
 3. Press "Export" and "as geoJSON"
