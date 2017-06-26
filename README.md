@@ -8,20 +8,22 @@ Currently implemented:
 * [Espoo](Espoo.geojson)
 
 ## Guide for generating geojson files
-1. Open [Overpass Turbo](https://overpass-turbo.eu/) and paste this into the box on the site:
-```
-[out:json][timeout:6000];
+1. Open [Overpass Turbo](https://overpass-turbo.eu/) and:
+ * select city:
+ Shortcuts: [Turku](http://overpass-turbo.eu/s/q0M)<!--, [Helsinki](), [Espoo]()-->
+ * or paste this into the box on the site (remember to replace **CITYNAME** with city's name):
+  ```
+  [out:json][timeout:6000];
 
-{{geocodeArea:CITYNAME}}->.searchArea;
+  {{geocodeArea:CITYNAME}}->.searchArea;
 
-(
-  way["highway"]["name"]["name:sv"!~".*"](area.searchArea);
-);
-// print results
-out body;
->;
-out skel qt;
-```
-Shortcuts: [Turku](http://overpass-turbo.eu/s/q0M)<!--, [Helsinki](), [Espoo]()-->
+  (
+    way["highway"]["name"]["name:sv"!~".*"](area.searchArea);
+  );
+  // print results
+  out body;
+  >;
+  out skel qt;
+  ```
 2. Press "Run".
 3. Press "Export" and "as geoJSON"
