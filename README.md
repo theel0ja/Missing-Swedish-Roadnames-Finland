@@ -1,5 +1,7 @@
 # Missing Swedish roadnames in Finland
 
+[![Build Status](https://travis-ci.org/theel0ja/Missing-Swedish-Roadnames-Finland.svg?branch=master)](https://travis-ci.org/theel0ja/Missing-Swedish-Roadnames-Finland)
+
 Data for missing Swedish roadnames for two-language officially 2 language cities and municipalities in Finland.
 
 Currently implemented:
