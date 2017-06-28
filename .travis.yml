@@ -1,4 +1,4 @@
-# Original code:https://github.com/r-hub/sysreqsdb/blob/master/.travis.yml
+# Original code: https://github.com/r-hub/sysreqsdb/blob/master/.travis.yml
 language: node_js
 
 sudo: false
