@@ -11,8 +11,8 @@ Currently implemented:
 
 ## Guide for generating geojson files
 1. Open [Overpass Turbo](https://overpass-turbo.eu/) and:
- * select city:
- Shortcuts: [Turku](http://overpass-turbo.eu/s/q0M)<!--, [Helsinki](), [Espoo]()-->
+ * select city: <br /> Shortcuts: 
+   * [Turku](http://overpass-turbo.eu/s/q0M)<!--, [Helsinki](), [Espoo]()-->
  * or paste this into the box on the site (remember to replace **CITYNAME** with city's name):
   ```
   [out:json][timeout:6000];
