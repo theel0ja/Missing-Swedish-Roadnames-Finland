@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-06-29T00:28:02Z",
+  "timestamp": "2017-06-29T13:25:58Z",
   "features": [
     {
       "type": "Feature",
@@ -65401,32 +65401,6 @@
         ]
       },
       "id": "way/315983883"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/316091340",
-        "highway": "living_street",
-        "name": "Mustamäentie"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2344767,
-            60.4680888
-          ],
-          [
-            22.2346093,
-            60.4680805
-          ],
-          [
-            22.2355498,
-            60.468022
-          ]
-        ]
-      },
-      "id": "way/316091340"
     },
     {
       "type": "Feature",
