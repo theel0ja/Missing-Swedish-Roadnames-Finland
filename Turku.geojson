@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-06-28T16:43:02Z",
+  "timestamp": "2017-06-29T00:28:02Z",
   "features": [
     {
       "type": "Feature",
@@ -29266,41 +29266,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/39087277",
-        "highway": "secondary",
-        "lanes": "3",
-        "lit": "yes",
-        "name": "Satakunnantie",
-        "name:fi": "Satakunnantie",
-        "oneway": "yes",
-        "surface": "paved"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2672057,
-            60.4594616
-          ],
-          [
-            22.2665021,
-            60.4598572
-          ],
-          [
-            22.266374,
-            60.4599293
-          ],
-          [
-            22.2661951,
-            60.4600347
-          ]
-        ]
-      },
-      "id": "way/39087277"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/39259136",
         "highway": "residential",
         "is_in": "Turku, Finland",
@@ -35271,42 +35236,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/46955353",
-        "foot": "yes",
-        "highway": "cycleway",
-        "name": "Lydeninpolku",
-        "name:fi": "Lydeninpolku"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2457337,
-            60.4856627
-          ],
-          [
-            22.2457343,
-            60.4856116
-          ],
-          [
-            22.2457408,
-            60.4850579
-          ],
-          [
-            22.2457079,
-            60.4842698
-          ],
-          [
-            22.2457382,
-            60.4840371
-          ]
-        ]
-      },
-      "id": "way/46955353"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/47453169",
         "bicycle": "no",
         "highway": "footway",
@@ -38295,80 +38224,6 @@
         ]
       },
       "id": "way/60103666"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/60545050",
-        "highway": "secondary",
-        "lanes": "2",
-        "name": "Satakunnantie",
-        "name:fi": "Satakunnantie",
-        "oneway": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2661951,
-            60.4600347
-          ],
-          [
-            22.2659598,
-            60.4601666
-          ],
-          [
-            22.2658593,
-            60.4602328
-          ],
-          [
-            22.2652069,
-            60.4608922
-          ],
-          [
-            22.2651031,
-            60.4610093
-          ],
-          [
-            22.2647149,
-            60.4614447
-          ],
-          [
-            22.2643299,
-            60.4618545
-          ],
-          [
-            22.264155,
-            60.4620446
-          ],
-          [
-            22.2640825,
-            60.4621234
-          ],
-          [
-            22.2639215,
-            60.4622759
-          ],
-          [
-            22.2635771,
-            60.4625471
-          ],
-          [
-            22.2633878,
-            60.4626473
-          ],
-          [
-            22.2629407,
-            60.4628212
-          ],
-          [
-            22.2627422,
-            60.4628681
-          ]
-        ]
-      },
-      "id": "way/60545050"
     },
     {
       "type": "Feature",
@@ -52386,35 +52241,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/171385746",
-        "highway": "residential",
-        "name": "Westerholminkatu",
-        "name:fi": "Westerholminkatu",
-        "oneway": "no",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.247377,
-            60.4840462
-          ],
-          [
-            22.2460001,
-            60.4840386
-          ],
-          [
-            22.2457382,
-            60.4840371
-          ]
-        ]
-      },
-      "id": "way/171385746"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/172570733",
         "foot": "yes",
         "highway": "cycleway",
@@ -59782,7 +59608,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/207200542",
-        "highway": "tertiary",
+        "highway": "residential",
         "name": "Kaerlantie",
         "name:fi": "Kaerlantie",
         "oneway": "yes"
@@ -59814,7 +59640,7 @@
       "type": "Feature",
       "properties": {
         "@id": "way/207200544",
-        "highway": "tertiary",
+        "highway": "residential",
         "name": "Kaerlantie",
         "name:fi": "Kaerlantie",
         "oneway": "yes"
@@ -59837,38 +59663,6 @@
         ]
       },
       "id": "way/207200544"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/207200545",
-        "highway": "tertiary",
-        "name": "Pohjoiskaari",
-        "name:fi": "Pohjoiskaari",
-        "oneway": "yes"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2721599,
-            60.4831284
-          ],
-          [
-            22.2725617,
-            60.4829637
-          ],
-          [
-            22.2726404,
-            60.4829314
-          ],
-          [
-            22.2728951,
-            60.4828681
-          ]
-        ]
-      },
-      "id": "way/207200545"
     },
     {
       "type": "Feature",
@@ -62660,94 +62454,6 @@
         ]
       },
       "id": "way/246487635"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/252958563",
-        "highway": "residential",
-        "name": "Taikavarvuntie",
-        "name:fi": "Taikavarvuntie",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2458362,
-            60.4859127
-          ],
-          [
-            22.2460537,
-            60.4859675
-          ],
-          [
-            22.2461519,
-            60.4860857
-          ],
-          [
-            22.2462163,
-            60.4862073
-          ],
-          [
-            22.2463289,
-            60.4862707
-          ],
-          [
-            22.2465381,
-            60.4862998
-          ],
-          [
-            22.2467795,
-            60.486313
-          ],
-          [
-            22.2471121,
-            60.4863209
-          ],
-          [
-            22.2475359,
-            60.4862972
-          ],
-          [
-            22.2477452,
-            60.4862926
-          ],
-          [
-            22.2477988,
-            60.4862919
-          ],
-          [
-            22.2479597,
-            60.486313
-          ],
-          [
-            22.2480938,
-            60.4863474
-          ],
-          [
-            22.2481743,
-            60.4864055
-          ],
-          [
-            22.2482333,
-            60.4864901
-          ],
-          [
-            22.2482172,
-            60.4865773
-          ],
-          [
-            22.2481635,
-            60.4866711
-          ],
-          [
-            22.2480992,
-            60.4867834
-          ]
-        ]
-      },
-      "id": "way/252958563"
     },
     {
       "type": "Feature",
@@ -69559,73 +69265,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/427888869",
-        "highway": "secondary",
-        "name": "Virusmäenramppi",
-        "oneway": "yes"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2681141,
-            60.4595042
-          ],
-          [
-            22.2680707,
-            60.4594466
-          ],
-          [
-            22.2679958,
-            60.4593889
-          ],
-          [
-            22.2678024,
-            60.4592933
-          ],
-          [
-            22.2671173,
-            60.4590738
-          ],
-          [
-            22.2669527,
-            60.4590272
-          ],
-          [
-            22.2668033,
-            60.4589961
-          ],
-          [
-            22.2666569,
-            60.4589816
-          ],
-          [
-            22.2663422,
-            60.4589397
-          ],
-          [
-            22.2662949,
-            60.458963
-          ],
-          [
-            22.266019,
-            60.4591356
-          ],
-          [
-            22.2658693,
-            60.4592262
-          ],
-          [
-            22.2656476,
-            60.4593554
-          ]
-        ]
-      },
-      "id": "way/427888869"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/428947466",
         "highway": "residential",
         "layer": "-1",
@@ -73641,72 +73280,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/478242020",
-        "highway": "secondary",
-        "lanes": "3",
-        "name": "Satakunnantie",
-        "name:fi": "Satakunnantie",
-        "oneway": "yes",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2627919,
-            60.4626998
-          ],
-          [
-            22.2632218,
-            60.4625352
-          ],
-          [
-            22.2637628,
-            60.4622173
-          ],
-          [
-            22.2639767,
-            60.4620121
-          ],
-          [
-            22.2643954,
-            60.4615471
-          ],
-          [
-            22.2647851,
-            60.4611185
-          ],
-          [
-            22.2649093,
-            60.4609677
-          ],
-          [
-            22.2650111,
-            60.460852
-          ],
-          [
-            22.2656227,
-            60.4602011
-          ],
-          [
-            22.2657446,
-            60.4601159
-          ],
-          [
-            22.2657833,
-            60.4600889
-          ],
-          [
-            22.265982,
-            60.4599588
-          ]
-        ]
-      },
-      "id": "way/478242020"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/478242100",
         "highway": "secondary",
         "lanes": "4",
@@ -76141,39 +75714,6 @@
         ]
       },
       "id": "way/493957000"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/495727128",
-        "highway": "residential",
-        "name": "Westerholminkatu",
-        "name:fi": "Westerholminkatu",
-        "oneway": "no",
-        "surface": "asphalt"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2457382,
-            60.4840371
-          ],
-          [
-            22.244853,
-            60.4840381
-          ],
-          [
-            22.2442525,
-            60.4840392
-          ],
-          [
-            22.2439363,
-            60.4840472
-          ]
-        ]
-      },
-      "id": "way/495727128"
     },
     {
       "type": "Feature",
