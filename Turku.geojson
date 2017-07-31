@@ -2,7 +2,7 @@
   "type": "FeatureCollection",
   "generator": "overpass-ide",
   "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
-  "timestamp": "2017-07-23T10:00:02Z",
+  "timestamp": "2017-07-31T10:47:02Z",
   "features": [
     {
       "type": "Feature",
@@ -23344,6 +23344,7 @@
         "@id": "way/28381226",
         "highway": "residential",
         "is_in": "Turku, Finland",
+        "motor_vehicle": "private",
         "name": "Oskarvuorentie",
         "name:fi": "Oskarvuorentie"
       },
@@ -23411,7 +23412,8 @@
       "properties": {
         "@id": "way/28381241",
         "highway": "footway",
-        "name": "Luontopolku"
+        "name": "Luontopolku",
+        "vehicle": "discouraged"
       },
       "geometry": {
         "type": "LineString",
@@ -26992,32 +26994,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/34634327",
-        "bicycle": "yes",
-        "highway": "living_street",
-        "maxspeed": "20",
-        "name": "Tuomiokirkontori",
-        "name:fi": "Tuomiokirkontori",
-        "surface": "cobblestone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2761652,
-            60.452131
-          ],
-          [
-            22.2773006,
-            60.4520206
-          ]
-        ]
-      },
-      "id": "way/34634327"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/34691556",
         "highway": "residential",
         "name": "Muhkurinmäki",
@@ -27765,7 +27741,8 @@
         "@id": "way/38088823",
         "highway": "residential",
         "name": "Katontekijänkatu",
-        "name:fi": "Katontekijänkatu"
+        "name:fi": "Katontekijänkatu",
+        "surface": "unpaved"
       },
       "geometry": {
         "type": "LineString",
@@ -27796,7 +27773,8 @@
         "@id": "way/38088824",
         "highway": "residential",
         "name": "Putkimiehenkuja",
-        "name:fi": "Putkimiehenkuja"
+        "name:fi": "Putkimiehenkuja",
+        "surface": "unpaved"
       },
       "geometry": {
         "type": "LineString",
@@ -34843,7 +34821,8 @@
         "@id": "way/51237934",
         "highway": "residential",
         "name": "Pajulantie",
-        "name:fi": "Pajulantie"
+        "name:fi": "Pajulantie",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -34866,7 +34845,8 @@
         "@id": "way/51237936",
         "highway": "residential",
         "name": "Pajulantie",
-        "name:fi": "Pajulantie"
+        "name:fi": "Pajulantie",
+        "surface": "asphalt"
       },
       "geometry": {
         "type": "LineString",
@@ -42205,34 +42185,6 @@
     {
       "type": "Feature",
       "properties": {
-        "@id": "way/103351226",
-        "bicycle": "designated",
-        "bridge": "yes",
-        "foot": "designated",
-        "highway": "cycleway",
-        "lit": "yes",
-        "motor_vehicle": "no",
-        "name": "Kirjastosilta",
-        "oneway": "no"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2724257,
-            60.4493052
-          ],
-          [
-            22.2715733,
-            60.4495444
-          ]
-        ]
-      },
-      "id": "way/103351226"
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "@id": "way/105038108",
         "highway": "service",
         "name": "Saukonkuja",
@@ -42408,31 +42360,6 @@
         ]
       },
       "id": "way/105833003"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "@id": "way/107030653",
-        "highway": "living_street",
-        "maxspeed": "20",
-        "name": "Tuomiokirkontori",
-        "name:fi": "Tuomiokirkontori",
-        "surface": "cobblestone"
-      },
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            22.2754457,
-            60.4521285
-          ],
-          [
-            22.2761652,
-            60.452131
-          ]
-        ]
-      },
-      "id": "way/107030653"
     },
     {
       "type": "Feature",
@@ -61390,7 +61317,8 @@
       "properties": {
         "@id": "way/291685593",
         "highway": "footway",
-        "name": "Luontopolku"
+        "name": "Luontopolku",
+        "vehicle": "discouraged"
       },
       "geometry": {
         "type": "LineString",
@@ -67020,6 +66948,7 @@
       "properties": {
         "@id": "way/437919169",
         "highway": "residential",
+        "motor_vehicle": "private",
         "name": "Havulinnantie"
       },
       "geometry": {
