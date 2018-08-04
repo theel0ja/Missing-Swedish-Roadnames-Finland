@@ -3,3 +3,6 @@ URL="https://overpass-api.de/api/interpreter?data=%5Bout%3Ajson%5D%5Btimeout%3A6
 curl ${URL} -o Turku.overpass.json
 
 ./node_modules/.bin/osmtogeojson Turku.overpass.json > Turku.geojson
+
+git add Turku.geojson
+git commit -m "Turku ($(date +%d.%m.%Y))"
